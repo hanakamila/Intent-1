@@ -7,5 +7,5 @@ Sekolah : SMK Telkom Malang<br><br>
 </p>
 <h2>Screenshot Aplikasi</h2>
 
-![alt tag](http://raw.githubusercontent.com/hanakamila/Intent-1/1-intent-01.JPG)<br>
-![alt tag](http://raw.githubusercontent.com/hanakamila/Intent-1/1-intent-02.JPG)
+<img src="https://github.com/hanakamila/Intent-1/blob/master/1-intent-01.JPG"/><br><br>
+<img src="https://github.com/hanakamila/Intent-1/blob/master/1-intent-02.JPG"/>
